@@ -1,0 +1,3 @@
+/microvenv
+/services/__pycache__/
+.gitignore
