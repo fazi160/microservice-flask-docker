@@ -1,0 +1,4 @@
+building = docker build -t flask-microservice .
+run      = docker run -p 5000:5000 flask-microservice
+
+site = https://kinsta.com/blog/python-microservices/#:~:text=Microservices%20are%20small%2C%20independent%20applications,flexibility%20and%20manageability%20throughout%20development.
